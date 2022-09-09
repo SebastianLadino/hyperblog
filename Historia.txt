@@ -1,9 +1,3 @@
-Biografia.
-Mi nombre en Jhan Sebastian.
 Tengo 20 años.
 
-En persona soy un poco timido con las personas, es entendible eso cuando no conoces a nadie, pero cuando tomo confianza soy muy relajado, seguro varios les pasara :).
-
-Hoy en dia estoy trabajando y estudiando para ser un buen ingeniero DevOps.
-
-Y aqui estoy, estudiando en platzi un curso profesional de Git y GitHub. Que es muy bueno por cierto.
+Mañana hablaremos de mis metas.
